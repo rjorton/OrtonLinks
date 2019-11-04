@@ -4,8 +4,8 @@
 ### University of Glasgow
 * [MyGlasgowStaff](https://www.gla.ac.uk/myglasgow/staff/)
 * [HR Portal](https://hrportal.mis.gla.ac.uk/)
-* [Agresso login](https://agrweb.mis.gla.ac.uk/Agresso/)
-* [Agresso getting started](https://www.gla.ac.uk/myglasgow/agresso/gettingstarted/accessingagresso/)
+* [Agresso Login](https://agrweb.mis.gla.ac.uk/Agresso/)
+* [Agresso Getting Started](https://www.gla.ac.uk/myglasgow/agresso/gettingstarted/accessingagresso/)
 * [PGR System](https://www.mvls.gla.ac.uk/PGRPR/)
 * [T4](https://t4.gla.ac.uk/terminalfour/SiteManager)
 * [Travel Insurance](https://www.gla.ac.uk/myglasgow/finance/staffsections/insuranceandrisk/forms/travelinsuranceform/)
@@ -14,8 +14,8 @@
 * [Eduroam](https://www.gla.ac.uk/myglasgow/it/eduroam/)
 
 ### CVR Bioinformatics
-* [http://www.bioinformatics.cvr.ac.uk/](http://www.bioinformatics.cvr.ac.uk/)
-* [CVR Bioinformatics](https://www.gla.ac.uk/researchinstitutes/iii/cvr/researchprogrammes/viralgenomicsbioinformatics/)
+* [CVR Bioinformatics](http://www.bioinformatics.cvr.ac.uk/)
+* [CVR Bioinformatics Programme](https://www.gla.ac.uk/researchinstitutes/iii/cvr/researchprogrammes/viralgenomicsbioinformatics/)
 * [CVR](http://www.cvr.ac.uk)
 * [CVR Templates](https://www.gla.ac.uk/researchinstitutes/iii/cvr/info/comms/cvrtemplates/)
 
@@ -39,10 +39,10 @@
 * [JGV Colections](https://jgv.microbiologyresearch.org/content/collections?page=2)
 
 ### GitHub
-* [Github](https://github.com/rjorton)
+* [GitHub](https://github.com/rjorton)
 * [valvs](https://github.com/ZackBoyd123/valvs)
 
 ### NCBI
-* [nuc](https://www.ncbi.nlm.nih.gov/nucleotide/)
+* [Nucleotide](https://www.ncbi.nlm.nih.gov/nucleotide/)
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 * [BatchEntrez](https://www.ncbi.nlm.nih.gov/sites/batchentrez)

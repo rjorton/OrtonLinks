@@ -14,11 +14,10 @@
 * [Eduroam](https://www.gla.ac.uk/myglasgow/it/eduroam/)
 
 ### CVR Bioinformatics
-* [Link](http://www.bioinformatics.cvr.ac.uk/)
-* [Link](https://www.gla.ac.uk/researchinstitutes/iii/cvr/researchprogrammes/viralgenomicsbioinformatics/)
-
-### CVR Templates
-* [Link](https://www.gla.ac.uk/researchinstitutes/iii/cvr/info/comms/cvrtemplates/)
+* [http://www.bioinformatics.cvr.ac.uk/](http://www.bioinformatics.cvr.ac.uk/)
+* [CVR Bioinformatics](https://www.gla.ac.uk/researchinstitutes/iii/cvr/researchprogrammes/viralgenomicsbioinformatics/)
+* [CVR](http://www.cvr.ac.uk)
+* [CVR Templates](https://www.gla.ac.uk/researchinstitutes/iii/cvr/info/comms/cvrtemplates/)
 
 ### Richard Orton
 * [UofG](https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/)

@@ -1,2 +1,2 @@
-# web
-University of Glasgow useful web links
+# OrtonLinks
+Some useful web links to various University of Glasgow resources etc

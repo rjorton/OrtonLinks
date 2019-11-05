@@ -7,7 +7,7 @@
 * [Agresso Login: https://agrweb.mis.gla.ac.uk/Agresso/](https://agrweb.mis.gla.ac.uk/Agresso/)
 * [Agresso Getting Started](https://www.gla.ac.uk/myglasgow/agresso/gettingstarted/accessingagresso/)
 * [PGR System: https://www.mvls.gla.ac.uk/PGRPR/](https://www.mvls.gla.ac.uk/PGRPR/)
-* [Thesis Administration Process: https://www.mvls.gla.ac.uk/TAP] (https://www.mvls.gla.ac.uk/TAP)
+* [Thesis Administration Process: https://www.mvls.gla.ac.uk/TAP](https://www.mvls.gla.ac.uk/TAP)
 * [T4: https://t4.gla.ac.uk/terminalfour/SiteManager](https://t4.gla.ac.uk/terminalfour/SiteManager)
 * [Travel Insurance](https://www.gla.ac.uk/myglasgow/finance/staffsections/insuranceandrisk/forms/travelinsuranceform/)
 * [Travel Booking](https://www.gla.ac.uk/myglasgow/agresso/informationforusers/usermanuals/purchasingofficerusermanual/travel/#/1.contactingthetravelagentdirectlytobookyourtravel)
@@ -21,7 +21,7 @@
 * [CVR Templates](https://www.gla.ac.uk/researchinstitutes/iii/cvr/info/comms/cvrtemplates/)
 
 ### Richard Orton
-* [UofG Page: https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/] (https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/)
+* [UofG Page: https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/](https://www.gla.ac.uk/researchinstitutes/iii/staff/richardorton/)
 * [CVR Page: http://www.bioinformatics.cvr.ac.uk/richard.php](http://www.bioinformatics.cvr.ac.uk/richard.php)
 * [BoydOrr Page](https://www.gla.ac.uk/research/az/boydorr/people/byname/richardorton/)
 * [URL](http://www.richardorton.co.uk)

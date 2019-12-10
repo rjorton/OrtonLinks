@@ -15,7 +15,7 @@
 * [Eduroam: https://www.gla.ac.uk/myglasgow/it/eduroam/](https://www.gla.ac.uk/myglasgow/it/eduroam/)
 
 ### CVR Bioinformatics
-* [CVR Bioinformatics: http://www.bioinformatics.cvr.ac.uk/](http://www.bioinformatics.cvr.ac.uk/)
+* [CVR Bioinformatics: http://bioinformatics.cvr.ac.uk/](http://bioinformatics.cvr.ac.uk/)
 * [CVR Genomics & Bioinformatics Programme](https://www.gla.ac.uk/researchinstitutes/iii/cvr/researchprogrammes/viralgenomicsbioinformatics/)
 * [CVR: http://www.cvr.ac.uk](http://www.cvr.ac.uk)
 * [CVR Templates](https://www.gla.ac.uk/researchinstitutes/iii/cvr/info/comms/cvrtemplates/)

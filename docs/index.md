@@ -8,7 +8,7 @@
 * [Agresso Getting Started](https://www.gla.ac.uk/myglasgow/agresso/gettingstarted/accessingagresso/)
 * [PGR System](https://www.mvls.gla.ac.uk/PGRPR/)
 * [Thesis Administration Process](https://www.mvls.gla.ac.uk/TAP)
-* [T4: https://t4.gla.ac.uk/terminalfour/SiteManager](https://t4.gla.ac.uk/terminalfour/SiteManager)
+* [T4](https://t4.gla.ac.uk/terminalfour/SiteManager)
 * [Travel Insurance](https://www.gla.ac.uk/myglasgow/finance/staffsections/insuranceandrisk/forms/travelinsuranceform/)
 * [Travel Booking](https://www.gla.ac.uk/myglasgow/agresso/informationforusers/usermanuals/purchasingofficerusermanual/travel/#/1.contactingthetravelagentdirectlytobookyourtravel)
 * [Glasgow File Transfer](https://transfer.gla.ac.uk)

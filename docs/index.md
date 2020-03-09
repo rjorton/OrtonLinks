@@ -1,6 +1,15 @@
 # OrtonLinks
 [URL](https://rjorton.github.io/OrtonLinks/)
 
+### COVID-19
+* [ARTIC Network nCoV-2019](https://artic.network/ncov-2019)
+* [ARTIC Network GitHub](https://github.com/artic-network)
+* [Virological](http://virological.org)
+* [CoV-GLUE](http://cov-glue.cvr.gla.ac.uk/)
+* [GISAID](https://www.gisaid.org)
+* [Nanopore Downloads](https://community.nanoporetech.com/downloads)
+* [MN908947](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)
 * [HR Portal](https://hrportal.mis.gla.ac.uk/)

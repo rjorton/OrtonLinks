@@ -2,9 +2,11 @@
 [URL](https://rjorton.github.io/OrtonLinks/)
 
 ### COVID-19
+* [MinION-COVID19](https://github.com/rjorton/MinION-COVID19/)
 * [ARTIC Network nCoV-2019](https://artic.network/ncov-2019)
 * [ARTIC Network GitHub](https://github.com/artic-network)
 * [Virological](http://virological.org)
+* [NextStrain-ncov](https://nextstrain.org/ncov)
 * [CoV-GLUE](http://cov-glue.cvr.gla.ac.uk/)
 * [GISAID](https://www.gisaid.org)
 * [Nanopore Downloads](https://community.nanoporetech.com/downloads)

@@ -11,6 +11,9 @@
 * [GISAID](https://www.gisaid.org)
 * [Nanopore Downloads](https://community.nanoporetech.com/downloads)
 * [MN908947](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+* [PangoLineages](https://cov-lineages.org/lineages.html)
+* [CoV-GLUE-Viz](http://vshiny1.cvr.gla.ac.uk/cov-glue-viz/)
+* [MutationExplorer](http://sars2.cvr.gla.ac.uk/cog-uk/)
 
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)
@@ -24,6 +27,7 @@
 * [Travel Booking](https://www.gla.ac.uk/myglasgow/agresso/informationforusers/usermanuals/purchasingofficerusermanual/travel/#/1.contactingthetravelagentdirectlytobookyourtravel)
 * [Glasgow File Transfer](https://transfer.gla.ac.uk)
 * [Eduroam](https://www.gla.ac.uk/myglasgow/it/eduroam/)
+* [UofG-Office365](https://office365.gla.ac.uk)
 
 ### CVR Bioinformatics
 * [CVR Bioinformatics](http://bioinformatics.cvr.ac.uk/)

@@ -1,6 +1,14 @@
 # OrtonLinks
 [URL](https://rjorton.github.io/OrtonLinks/)
 
+### Lineages
+* [cov-lineages.org](https://cov-lineages.org/lineage_list.html)
+* [outbreak.info](https://outbreak.info)
+* [WHO Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
+* [ECDC](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
+* [Variant Definitions](https://github.com/phe-genomics/variant_definitions)
+* [pango-designation alias](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
+
 ### COVID-19
 * [MinION-COVID19](https://github.com/rjorton/MinION-COVID19/)
 * [ARTIC Network nCoV-2019](https://artic.network/ncov-2019)
@@ -11,7 +19,6 @@
 * [GISAID](https://www.gisaid.org)
 * [Nanopore Downloads](https://community.nanoporetech.com/downloads)
 * [MN908947](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
-* [PangoLineages](https://cov-lineages.org/lineages.html)
 * [CoV-GLUE-Viz](http://vshiny1.cvr.gla.ac.uk/cov-glue-viz/)
 * [MutationExplorer](http://sars2.cvr.gla.ac.uk/cog-uk/)
 

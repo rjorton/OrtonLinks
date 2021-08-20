@@ -2,6 +2,7 @@
 [URL](https://rjorton.github.io/OrtonLinks/)
 
 ### Lineages
+* [investigation-of-novel-sars-cov-2-variant-variant-of-concern](https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201)
 * [cov-lineages.org](https://cov-lineages.org/lineage_list.html)
 * [outbreak.info](https://outbreak.info)
 * [WHO Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)

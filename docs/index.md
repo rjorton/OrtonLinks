@@ -23,6 +23,34 @@
 * [CoV-GLUE-Viz](http://vshiny1.cvr.gla.ac.uk/cov-glue-viz/)
 * [MutationExplorer](http://sars2.cvr.gla.ac.uk/cog-uk/)
 
+### ORFs
+* ORF1ab/nsp1: 266-805
+* ORF1ab/nsp2: 806-2719
+* ORF1ab/nsp3: 2720-8554
+* ORF1ab/nsp4: 8555-10054
+* ORF1ab/nsp5A-B: 10055-10972
+* ORF1ab/nsp6: 10973-11842
+* ORF1ab/nsp7: 11843-12091
+* ORF1ab/nsp8: 12092-12685
+* ORF1ab/nsp9: 12686-13024
+* ORF1ab/nsp10: 13025-13441
+* ORF1ab/nsp12: 13442-16236 [13468x1]
+* ORF1ab/nsp13: 16237-18039
+* ORF1ab/nsp14A2-B: 18040-19620
+* ORF1ab/nsp15A1-B: 19621-20658
+* ORF1ab/nsp16: 20659-21555
+* ORF1a: 13466-13483
+* S: 21563-25384
+* ORF3a: 25393-26220
+* E: 26245-26472
+* M: 26523-27191
+* ORF6: 27202-27387
+* ORF7a: 27394-27759
+* ORF7b: 27756-27887
+* ORF8: 27894-28259
+* N: 28274-29533
+* ORF10: 29558-29674
+
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)
 * [HR Portal](https://hrportal.mis.gla.ac.uk/)

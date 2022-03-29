@@ -3,6 +3,7 @@
 
 ### Lineages
 * [cov-linegaes issues](https://github.com/cov-lineages/pango-designation/issues)
+* [PHE-Variant Definitions](https://github.com/phe-genomics/variant_definitions)
 * [investigation-of-novel-sars-cov-2-variant-variant-of-concern](https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201)
 * [cov-lineages.org](https://cov-lineages.org/lineage_list.html)
 * [outbreak.info](https://outbreak.info)

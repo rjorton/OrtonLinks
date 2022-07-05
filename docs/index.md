@@ -56,6 +56,7 @@
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)
 * [HR Portal](https://hrportal.mis.gla.ac.uk/)
+* [HR](https://www.gla.ac.uk/myglasgow/humanresources/all/pay/promotion/acpromotion/)
 * [Agresso Login](https://agrweb.mis.gla.ac.uk/Agresso/)
 * [Agresso Getting Started](https://www.gla.ac.uk/myglasgow/agresso/gettingstarted/accessingagresso/)
 * [PGR System](https://www.mvls.gla.ac.uk/PGRPR/)

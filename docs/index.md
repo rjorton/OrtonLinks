@@ -1,6 +1,10 @@
 # OrtonLinks
 [URL](https://rjorton.github.io/OrtonLinks/)
 
+### COG-Train
+[SARS-CoV-2 Tutorial](https://github.com/WCSCourses/ViralBioinfAsia2022/blob/main/Modules/SARS-CoV-2.md)
+[ViralBioinfAsia2022](https://github.com/WCSCourses/ViralBioinfAsia2022)
+
 ### Lineages
 * [cov-linegaes issues](https://github.com/cov-lineages/pango-designation/issues)
 * [PHE-Variant Definitions](https://github.com/phe-genomics/variant_definitions)

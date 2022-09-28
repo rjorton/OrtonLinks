@@ -73,6 +73,7 @@
 * [Glasgow File Transfer](https://transfer.gla.ac.uk)
 * [Eduroam](https://www.gla.ac.uk/myglasgow/it/eduroam/)
 * [UofG-Office365](https://office365.gla.ac.uk)
+* [Corporate Perks](https://universityofglasgow.corporateperks.com/login)
 
 ### CVR Bioinformatics
 * [CVR Bioinformatics](http://bioinformatics.cvr.ac.uk/)

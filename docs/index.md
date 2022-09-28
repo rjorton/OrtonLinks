@@ -69,7 +69,7 @@
 * [Thesis Administration Process](https://www.mvls.gla.ac.uk/TAP)
 * [T4](https://t4.gla.ac.uk/terminalfour/SiteManager)
 * [Travel Insurance](https://www.gla.ac.uk/myglasgow/finance/staffsections/insuranceandrisk/forms/travelinsuranceform/)
-* [Travel Booking](https://www.gla.ac.uk/myglasgow/agresso/informationforusers/usermanuals/purchasingofficerusermanual/travel/#/1.contactingthetravelagentdirectlytobookyourtravel)
+* [Travel Booking](https://www.gla.ac.uk/myglasgow/procurementoffice/universitytravelhub/bookmyowntravel/)
 * [Glasgow File Transfer](https://transfer.gla.ac.uk)
 * [Eduroam](https://www.gla.ac.uk/myglasgow/it/eduroam/)
 * [UofG-Office365](https://office365.gla.ac.uk)

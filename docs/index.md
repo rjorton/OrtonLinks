@@ -4,6 +4,7 @@
 ### COG-Train
 * [SARS-CoV-2 Tutorial](https://github.com/WCSCourses/ViralBioinfAsia2022/blob/main/Modules/SARS-CoV-2.md)
 * [ViralBioinfAsia2022](https://github.com/WCSCourses/ViralBioinfAsia2022)
+* [ViralBioinfLAC2022](https://github.com/WCSCourses/ViralBioinfLAC2022)
 
 ### Lineages
 * [cov-linegaes issues](https://github.com/cov-lineages/pango-designation/issues)

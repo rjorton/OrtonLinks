@@ -28,6 +28,7 @@
 * [Nanopore Downloads](https://community.nanoporetech.com/downloads)
 * [MN908947](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 * [CoV-GLUE-Viz](http://vshiny1.cvr.gla.ac.uk/cov-glue-viz/)
+* [PangoWatch](https://mdu-phl.github.io/pango-watch/)
 * [MutationExplorer](http://sars2.cvr.gla.ac.uk/cog-uk/)
 
 ### ORFs

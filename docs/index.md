@@ -15,7 +15,9 @@
 * [WHO Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
 * [ECDC](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 * [Variant Definitions](https://github.com/phe-genomics/variant_definitions)
+* [PamgoLineageNotes](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)
 * [pango-designation alias](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
+* wget https://raw.githubusercontent.com/cov-lineages/pango-designation/master/pango_designation/alias_key.json
 
 ### COVID-19
 * [MinION-COVID19](https://github.com/rjorton/MinION-COVID19/)
@@ -29,6 +31,8 @@
 * [MN908947](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 * [CoV-GLUE-Viz](http://vshiny1.cvr.gla.ac.uk/cov-glue-viz/)
 * [PangoWatch](https://mdu-phl.github.io/pango-watch/)
+* [UK Varinat Landscape](https://ukcovid.xyz/variant-landscape.php)
+* [Codon2Nuc](https://codon2nucleotide.theo.io)
 * [MutationExplorer](http://sars2.cvr.gla.ac.uk/cog-uk/)
 
 ### ORFs
@@ -58,6 +62,12 @@
 * ORF8: 27894-28259
 * N: 28274-29533
 * ORF10: 29558-29674
+
+### Meta
+* [Kraken dbs](https://benlangmead.github.io/aws-indexes/k2)
+* [Kraken proto](https://www.nature.com/articles/s41596-022-00738-y#Sec31)
+* [Kraken tools](http://ccb.jhu.edu/software/choosing-a-metagenomics-classifier/)
+* [MedakaErrorModels](https://github.com/nanoporetech/medaka/tree/master/medaka/data)
 
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)

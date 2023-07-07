@@ -68,6 +68,8 @@
 * [Kraken proto](https://www.nature.com/articles/s41596-022-00738-y#Sec31)
 * [Kraken tools](http://ccb.jhu.edu/software/choosing-a-metagenomics-classifier/)
 * [MedakaErrorModels](https://github.com/nanoporetech/medaka/tree/master/medaka/data)
+* [CZID](https://github.com/chanzuckerberg/czid-web)
+* [CCMETAGEN](https://github.com/vrmarcelino/CCMetagen)
 
 ### University of Glasgow
 * [MyGlasgow Staff](https://www.gla.ac.uk/myglasgow/staff/)

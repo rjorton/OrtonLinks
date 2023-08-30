@@ -122,3 +122,13 @@
 * [Nucleotide](https://www.ncbi.nlm.nih.gov/nucleotide/)
 * [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 * [BatchEntrez](https://www.ncbi.nlm.nih.gov/sites/batchentrez)
+
+### Comp
+
+* [Conda CheatSheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+* [Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [Ubuntu Linux Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* [https://linuxjourney.com/lesson/stdout-standard-out-redirect](https://linuxjourney.com/lesson/stdout-standard-out-redirect)
+* [https://linuxcontainers.org/lxd/introduction/](https://linuxcontainers.org/lxd/introduction/)
+* [https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192)
+

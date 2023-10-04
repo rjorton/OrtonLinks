@@ -16,8 +16,9 @@
 * [WHO Variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
 * [ECDC](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 * [Variant Definitions](https://github.com/phe-genomics/variant_definitions)
-* [PamgoLineageNotes](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)
+* [PangoLineageNotes](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)
 * [pango-designation alias](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
+* [UKHSA Techical briefings](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-technical-briefings)
 * wget https://raw.githubusercontent.com/cov-lineages/pango-designation/master/pango_designation/alias_key.json
 
 ### COVID-19

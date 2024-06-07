@@ -19,6 +19,10 @@
 * [PangoLineageNotes](https://github.com/cov-lineages/pango-designation/blob/master/lineage_notes.txt)
 * [pango-designation alias](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
 * [UKHSA Techical briefings](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-technical-briefings)
+* [Neher Lab report](https://github.com/neherlab/SARS-CoV-2_variant-reports/blob/main/reports/variant_report_latest_draft.md)
+* [Denmark COVID-19](https://www.covid19genomics.dk/statistics)
+* [UKHSA Dashboard](https://ukhsa-dashboard.data.gov.uk)
+* [UKHSA Modelling](https://www.gov.uk/government/publications/sars-cov-2-genome-sequence-prevalence-and-growth-rate)
 * wget https://raw.githubusercontent.com/cov-lineages/pango-designation/master/pango_designation/alias_key.json
 
 ### COVID-19

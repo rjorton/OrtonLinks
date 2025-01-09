@@ -7,8 +7,8 @@
 * [ViralBioinfLAC2022](https://github.com/WCSCourses/ViralBioinfLAC2022)
 
 ### Lineages
+* [MAIN cov-linegaes props](https://github.com/sars-cov-2-variants/lineage-proposals/issues)
 * [cov-linegaes issues](https://github.com/cov-lineages/pango-designation/issues)
-* [cov-linegaes props](https://github.com/sars-cov-2-variants/lineage-proposals/issues)
 * [PHE-Variant Definitions](https://github.com/phe-genomics/variant_definitions)
 * [investigation-of-novel-sars-cov-2-variant-variant-of-concern](https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201)
 * [cov-lineages.org](https://cov-lineages.org/lineage_list.html)
@@ -20,6 +20,7 @@
 * [pango-designation alias](https://github.com/cov-lineages/pango-designation/blob/master/pango_designation/alias_key.json)
 * [UKHSA Techical briefings](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-technical-briefings)
 * [Neher Lab report](https://github.com/neherlab/SARS-CoV-2_variant-reports/blob/main/reports/variant_report_latest_draft.md)
+* [Murrell Group report](https://github.com/MurrellGroup/lineages?tab=readme-ov-file)
 * [Denmark COVID-19](https://www.covid19genomics.dk/statistics)
 * [UKHSA Dashboard](https://ukhsa-dashboard.data.gov.uk)
 * [UKHSA Modelling](https://www.gov.uk/government/publications/sars-cov-2-genome-sequence-prevalence-and-growth-rate)
